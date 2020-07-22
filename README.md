@@ -1,4 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Soy Jose Torres
 <a href="https://twitter.com/SEPPTORRES">
   <img align="left" alt="Jose Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -9,23 +10,15 @@
   <img align="left" alt="Jose Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3orieVXeNFRhdfdGYE/giphy.gif" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+<h3 align="center">Un apasionado por el desarrollo web</h3>
+<h3> Entusiaste en el desarrollo. </h3>
+<h3> Me gusta aprender y contribuir si es posible.</h3>
 
-<p align="center">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+- 🔭 Frecuentemente trabajo en **UMMASIS**
+- 👯 I’m looking to collaborate on **UNIVERSIDAD MUNDO MAYA**
+- 💬 Ask me about **vue, laravel**
 
-</p>
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/></p>
 
 ![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=PepTorres&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
