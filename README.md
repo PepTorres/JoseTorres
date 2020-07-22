@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-### Soy Jose Torres
+<h3 align="center">Soy Jose Torres, un apasionado por el desarrollo web</h3> 
 <a href="https://twitter.com/SEPPTORRES">
   <img align="left" alt="Jose Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,10 +10,7 @@
   <img align="left" alt="Jose Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<h3 align="center">Un apasionado por el desarrollo web</h3>
-<h3> Entusiaste en el desarrollo. </h3>
-<h3> Me gusta aprender y contribuir si es posible.</h3>
-
+- 🔭 Me gusta aprender y contribuir si es posible.</h3>
 - 🔭 Frecuentemente trabajo en **UMMASIS**
 - 👯 I’m looking to collaborate on **UNIVERSIDAD MUNDO MAYA**
 - 💬 Ask me about **vue, laravel**
